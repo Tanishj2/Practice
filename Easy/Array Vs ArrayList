@@ -8,3 +8,10 @@ ArrayList class present in java.util package.
 Array, in java we need to define the size of the array before we can use it. (Static).To handle this issue, we can use Arraylist.
 
 Unlike in java arrays, Arraylist (objects of the arraylist class) can automatically ajdust its capacity when we add or remove elements.
+
+
+
+#Creation of ArrayList#
+
+ArrayList<TYPE> al = new ArrayList<TYPE>();                               //syntax of arraylsit
+                                                                          //Here <TYPE> can be any data types.
