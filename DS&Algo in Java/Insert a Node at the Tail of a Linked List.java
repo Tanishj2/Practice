@@ -50,7 +50,6 @@ public class Solution {
      * }
      *
      */
-     
      // ***********************************************Start***********************************************************//
     static SinglyLinkedListNode insertNodeAtTail(SinglyLinkedListNode head, int data){
         
