@@ -29,3 +29,4 @@ public class GCD{
 
 /* OUTPUT */
 4 is GCD
+https://onlinegdb.com/r1rBumv4v
